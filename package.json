@@ -1,5 +1,6 @@
 {
-	"name": "riz-kinu-graha",
+	"name": "fcc-learn-npm-package-json",
+	"author": "riz-kinu-graha",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
